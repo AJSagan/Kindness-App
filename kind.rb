@@ -14,6 +14,7 @@ class RandomActOfKindnessGenerator
       "Let someone merge into traffic ahead of you.",
       "Forgive someone who has wronged you.",
   	  "Go on a date with Malek",
+      "Sleep with Malek",
       "Do something nice for someone without expecting anything in return."
     ]
 
