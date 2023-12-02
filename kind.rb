@@ -15,7 +15,7 @@ class RandomActOfKindnessGenerator
       "Forgive someone who has wronged you.",
   	  "Go on a date with Malek",
       "Sleep with Malek",
-      "Do something nice for someone without expecting anything in return."
+      "Do something nice for someone without expecting anything."
     ]
 
     random_act_of_kindness = acts_of_kindness.sample
